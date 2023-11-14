@@ -14,7 +14,7 @@ import android.widget.VideoView;
 
 public class MainActivity extends AppCompatActivity {
 
-    String[] item = {"EN","FR","CN","ES"};
+    String[] item = {"EB","FR","CN","ES"};
 
     AutoCompleteTextView autoCompleteTextView;
 
