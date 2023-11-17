@@ -6,7 +6,6 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.os.Handler;
 import android.widget.ImageView;
-import android.widget.TextView;
 
 import com.airbnb.lottie.LottieAnimationView;
 
@@ -21,7 +20,7 @@ public class intro extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_intro);
+        setContentView(R.layout.introxml);
 
         logo=findViewById(R.id.whitelo);
         lottieAnimationView=findViewById(R.id.lottie);
@@ -33,7 +32,7 @@ public class intro extends AppCompatActivity {
         new Handler().postDelayed(new Runnable() {
             @Override
             public void run() {
-                Intent intent=new Intent(intro.this,MainActivity.class);
+                Intent intent=new Intent(intro.this,welcomePage.class);
                 startActivity(intent);
             }
         },Splash);

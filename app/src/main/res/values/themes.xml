@@ -6,4 +6,16 @@
     </style>
 
     <style name="Theme.Guide2" parent="Base.Theme.Guide2" />
+    
+    <style name="darkmodeSwitch" parent="Theme.AppCompat.Light">
+        <item name="colorControlActivated">@color/nightmode</item>
+        <item name="colorSwitchThumbNormal">#ffffff</item>
+        <item name="android:colorForeground">#99ffffff</item>
+
+    </style>
+
+    <!--dialog
+    <style name="DialogAnim">
+        <item name="android:windowEnterAnimation"
+    </style> -->
 </resources>

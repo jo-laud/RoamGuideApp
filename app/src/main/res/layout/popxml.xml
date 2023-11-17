@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="350dp"
+    android:layout_height="470dp"
+    android:orientation="vertical"
+    android:background="@color/popmenu"
+    android:layout_gravity="center"
+    android:padding="5dp">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        tools:ignore="UseCompoundDrawables">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/about_us"
+            android:textAlignment="viewStart"
+            android:layout_marginStart="12dp"
+            android:layout_marginTop="5dp"
+            android:textSize="30sp"
+            android:fontFamily="@font/alegreya"
+            android:textColor="@color/white"/>
+
+        <ImageView
+            android:id="@+id/closb"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/closeabout"
+            android:layout_marginLeft="160dp"
+            android:layout_marginTop="12dp"
+            android:contentDescription="TODO" />
+
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Glasgow RoamReady is a city guide mobile application built by Joseph Fugar and Xingwen Zhang of Group 15 for the 'Mobile Networks and Application' module."
+            android:textAlignment="viewStart"
+            android:textSize="20sp"
+            android:textStyle="italic"
+            android:paddingTop="20dp"
+            android:layout_marginStart="5dp"
+            android:layout_marginEnd="0dp"
+            android:fontFamily="@font/alegreya"
+            android:textColor="@color/white"/>
+
+
+    </LinearLayout>
+</LinearLayout>
