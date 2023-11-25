@@ -4,6 +4,9 @@
 
     <string name="my_map_api_key" templateMergeStrategy="preserve" translatable="false">AIzaSyBx5gQjY-h1C_9Ll-Pj5OFdvz49uHG5xL0</string>
     <string name="title_activity_maps">MapsActivity</string>
+
+    <string name="my_weather_api_key" templateMergeStrategy="preserve" translatable="false">47a7f1fa8637d2c5fcc23e4c9b314a7a</string>
+    <string name="title_activity_weather">Weather</string>
     <!-- Preference Titles -->
     <string name="messages_header">Messages</string>
     <string name="sync_header">Sync</string>

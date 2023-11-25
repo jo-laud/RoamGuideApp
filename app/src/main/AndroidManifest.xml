@@ -17,9 +17,12 @@
         android:theme="@style/Theme.Guide2"
         tools:targetApi="23">
         <activity
+            android:name=".Weather"
+            android:exported="false" />
+        <activity
             android:name=".settingsActivity"
             android:exported="false"
-            android:label="settingsActivity"/>
+            android:label="settingsActivity" />
 
         <meta-data
             android:name="com.google.android.geo.API_KEY"

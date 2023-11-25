@@ -15,6 +15,7 @@ import android.widget.Toast;
 
 public class settingsActivity extends AppCompatActivity {
     ImageView openAbout;
+    ImageView lan;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -22,12 +23,21 @@ public class settingsActivity extends AppCompatActivity {
         setContentView(R.layout.activity_settings);
 
         openAbout = (ImageView) findViewById(R.id.about);
+        lan = (ImageView) findViewById(R.id.lang);
 
         openAbout.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 startActivity(new Intent(settingsActivity.this, popmenu.class));
             }
+
         });
+        lan.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                startActivity(new Intent(settingsActivity.this, Weather.class));
+            }
+        });
+
     }
 }
