@@ -2,4 +2,14 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <color name="primary">#62674B</color>
+    <color name="secondary">#ff03dac5 </color>
+
+    <color name="nightmode">#6124b1</color>
+    <color name="lang">#13b2c3</color>
+    <color name="about">#e68324</color>
+    <color name="contact">#d95f69</color>
+
+    <color name="popmenu">#1B3C4E</color>
 </resources>
