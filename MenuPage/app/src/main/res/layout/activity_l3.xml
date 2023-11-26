@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".L3Activity">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:ignore="SpeakableTextPresentCheck">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <ImageView
+                android:id="@+id/imageViewBack"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                app:srcCompat="?attr/actionModeCloseDrawable" />
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <ImageView
+                    android:id="@+id/imageViewL3"
+                    android:layout_width="410dp"
+                    android:layout_height="237dp"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent"
+                    app:srcCompat="@drawable/l3_1" />
+
+                <TextView
+                    android:id="@+id/textViewL31"
+                    android:layout_width="360dp"
+                    android:layout_height="30dp"
+                    android:text="George Square"
+                    android:textColor="#7499B1"
+                    android:textSize="20sp"
+                    android:textStyle="bold"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toBottomOf="@+id/imageViewL3" />
+
+                <TextView
+                    android:id="@+id/textViewL32"
+                    android:layout_width="360dp"
+                    android:layout_height="30dp"
+                    android:text="Glasgow G2 1DH"
+                    android:textColor="#000000"
+                    android:textSize="15sp"
+                    android:textStyle="bold"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toBottomOf="@+id/textViewL31" />
+
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal">
+
+                <androidx.constraintlayout.widget.ConstraintLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <ImageView
+                        android:id="@+id/imageViewL31"
+                        android:layout_width="35dp"
+                        android:layout_height="35dp"
+                        android:layout_marginStart="50dp"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintTop_toTopOf="parent"
+                        app:srcCompat="@drawable/baseline_link_black_24dp" />
+
+                    <ImageView
+                        android:id="@+id/imageViewL32"
+                        android:layout_width="35dp"
+                        android:layout_height="35dp"
+                        android:layout_marginStart="50dp"
+                        app:layout_constraintBottom_toBottomOf="@+id/imageViewL31"
+                        app:layout_constraintStart_toEndOf="@+id/imageViewL31"
+                        app:layout_constraintTop_toTopOf="@+id/imageViewL31"
+                        app:srcCompat="@drawable/baseline_info_black_24dp" />
+
+                    <ImageView
+                        android:id="@+id/imageViewL33"
+                        android:layout_width="35dp"
+                        android:layout_height="35dp"
+                        android:layout_marginStart="50dp"
+                        app:layout_constraintBottom_toBottomOf="@+id/imageViewL32"
+                        app:layout_constraintStart_toEndOf="@+id/imageViewL32"
+                        app:layout_constraintTop_toTopOf="@+id/imageViewL32"
+                        app:srcCompat="@drawable/baseline_place_black_24dp" />
+                </androidx.constraintlayout.widget.ConstraintLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+                <androidx.constraintlayout.widget.ConstraintLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <TextView
+                        android:id="@+id/textViewL34"
+                        android:layout_width="330dp"
+                        android:layout_height="450dp"
+                        android:layout_marginTop="20dp"
+                        android:textColor="#000000"
+                        android:textSize="16sp"
+                        android:textStyle="bold"
+                        android:text="George Square is the principal public square in the heart of Glasgow, Scotland, and serves as the city's main civic space. Named after King George III, the square has been a focal point since the 18th century. It is surrounded by notable buildings, including the Glasgow City Chambers, a Victorian masterpiece. The square features statues of prominent historical figures, monuments, and beautiful gardens. Throughout the year, George Square hosts various events, celebrations, and demonstrations, making it a vibrant hub of activity. The square stands as a testament to Glasgow's rich history, serving both as a civic center and a gathering place for locals and visitors alike."
+                        app:layout_constraintEnd_toEndOf="parent"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintTop_toTopOf="parent" />
+
+                </androidx.constraintlayout.widget.ConstraintLayout>
+            </LinearLayout>
+
+        </LinearLayout>
+    </ScrollView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
