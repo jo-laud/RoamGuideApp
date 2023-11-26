@@ -32,7 +32,7 @@ public class welcomePage extends AppCompatActivity {
         myRoamButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                startActivity(new Intent(welcomePage.this,MapsActivity.class));
+                startActivity(new Intent(welcomePage.this,CollegeActivity.class));
             }
         });
 
