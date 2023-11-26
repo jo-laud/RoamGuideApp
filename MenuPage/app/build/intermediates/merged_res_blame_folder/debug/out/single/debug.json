@@ -1,0 +1,446 @@
+[
+    {
+        "merged": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-merged_res-32:\\drawable-xxhdpi_baseline_place_black_24dp.png.flat",
+        "source": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-main-34:\\drawable-xxhdpi\\baseline_place_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-merged_res-32:\\drawable_a_6.png.flat",
+        "source": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-main-34:\\drawable\\a_6.png"
+    },
+    {
+        "merged": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-merged_res-32:\\drawable_c5_u5.jpg.flat",
+        "source": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-main-34:\\drawable\\c5_u5.jpg"
+    },
+    {
+        "merged": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-merged_res-32:\\drawable_c_u5.png.flat",
+        "source": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-main-34:\\drawable\\c_u5.png"
+    },
+    {
+        "merged": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-merged_res-32:\\layout_activity_l5.xml.flat",
+        "source": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-main-34:\\layout\\activity_l5.xml"
+    },
+    {
+        "merged": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-merged_res-32:\\drawable-mdpi_baseline_arrow_back_ios_new_black_24dp.png.flat",
+        "source": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-main-34:\\drawable-mdpi\\baseline_arrow_back_ios_new_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-merged_res-32:\\drawable-xxxhdpi_baseline_info_black_24dp.png.flat",
+        "source": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-main-34:\\drawable-xxxhdpi\\baseline_info_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-merged_res-32:\\layout_activity_landmarks.xml.flat",
+        "source": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-main-34:\\layout\\activity_landmarks.xml"
+    },
+    {
+        "merged": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-merged_res-32:\\drawable-xhdpi_baseline_phone_black_24dp.png.flat",
+        "source": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-main-34:\\drawable-xhdpi\\baseline_phone_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-merged_res-32:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-pngs-27:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-merged_res-32:\\drawable-xhdpi_baseline_arrow_back_ios_new_black_24dp.png.flat",
+        "source": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-main-34:\\drawable-xhdpi\\baseline_arrow_back_ios_new_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-merged_res-32:\\layout_activity_info_l5.xml.flat",
+        "source": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-main-34:\\layout\\activity_info_l5.xml"
+    },
+    {
+        "merged": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-merged_res-32:\\drawable_b_cu.png.flat",
+        "source": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-main-34:\\drawable\\b_cu.png"
+    },
+    {
+        "merged": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-merged_res-32:\\layout_activity_l4.xml.flat",
+        "source": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-main-34:\\layout\\activity_l4.xml"
+    },
+    {
+        "merged": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-merged_res-32:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-main-34:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-merged_res-32:\\drawable_a_7.png.flat",
+        "source": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-main-34:\\drawable\\a_7.png"
+    },
+    {
+        "merged": "com.example.menupage2.app-merged_res-32:/layout_activity_landmarks.xml.flat",
+        "source": "com.example.menupage2.app-main-34:/layout/activity_landmarks.xml"
+    },
+    {
+        "merged": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-merged_res-32:\\drawable_c_u6.png.flat",
+        "source": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-main-34:\\drawable\\c_u6.png"
+    },
+    {
+        "merged": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-merged_res-32:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-main-34:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-merged_res-32:\\drawable-mdpi_baseline_place_black_24dp.png.flat",
+        "source": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-main-34:\\drawable-mdpi\\baseline_place_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-merged_res-32:\\drawable_l_5.png.flat",
+        "source": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-main-34:\\drawable\\l_5.png"
+    },
+    {
+        "merged": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-merged_res-32:\\drawable-hdpi_baseline_phone_black_24dp.png.flat",
+        "source": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-main-34:\\drawable-hdpi\\baseline_phone_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-merged_res-32:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-main-34:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-merged_res-32:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-main-34:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-merged_res-32:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-main-34:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-merged_res-32:\\drawable_c3_u3.jpg.flat",
+        "source": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-main-34:\\drawable\\c3_u3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-merged_res-32:\\drawable-xxxhdpi_baseline_place_black_24dp.png.flat",
+        "source": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-main-34:\\drawable-xxxhdpi\\baseline_place_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-merged_res-32:\\layout_activity_info_l1.xml.flat",
+        "source": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-main-34:\\layout\\activity_info_l1.xml"
+    },
+    {
+        "merged": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-merged_res-32:\\drawable_a_1.png.flat",
+        "source": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-main-34:\\drawable\\a_1.png"
+    },
+    {
+        "merged": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-merged_res-32:\\layout_activity_cu6.xml.flat",
+        "source": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-main-34:\\layout\\activity_cu6.xml"
+    },
+    {
+        "merged": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-merged_res-32:\\drawable-hdpi_baseline_place_black_24dp.png.flat",
+        "source": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-main-34:\\drawable-hdpi\\baseline_place_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-merged_res-32:\\drawable_g_1.jpg.flat",
+        "source": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-main-34:\\drawable\\g_1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-merged_res-32:\\layout_activity_info_c3.xml.flat",
+        "source": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-main-34:\\layout\\activity_info_c3.xml"
+    },
+    {
+        "merged": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-merged_res-32:\\drawable_a_4.png.flat",
+        "source": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-main-34:\\drawable\\a_4.png"
+    },
+    {
+        "merged": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-merged_res-32:\\drawable_l1_5.jpg.flat",
+        "source": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-main-34:\\drawable\\l1_5.jpg"
+    },
+    {
+        "merged": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-merged_res-32:\\layout_activity_info_l4.xml.flat",
+        "source": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-main-34:\\layout\\activity_info_l4.xml"
+    },
+    {
+        "merged": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-merged_res-32:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-main-34:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-merged_res-32:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-main-34:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-merged_res-32:\\drawable-mdpi_baseline_info_black_24dp.png.flat",
+        "source": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-main-34:\\drawable-mdpi\\baseline_info_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-merged_res-32:\\drawable-mdpi_baseline_link_black_24dp.png.flat",
+        "source": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-main-34:\\drawable-mdpi\\baseline_link_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-merged_res-32:\\drawable_l_1.png.flat",
+        "source": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-main-34:\\drawable\\l_1.png"
+    },
+    {
+        "merged": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-merged_res-32:\\drawable-xxhdpi_baseline_info_black_24dp.png.flat",
+        "source": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-main-34:\\drawable-xxhdpi\\baseline_info_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-merged_res-32:\\drawable_c4_u4.jpg.flat",
+        "source": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-main-34:\\drawable\\c4_u4.jpg"
+    },
+    {
+        "merged": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-merged_res-32:\\layout_activity_c3.xml.flat",
+        "source": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-main-34:\\layout\\activity_c3.xml"
+    },
+    {
+        "merged": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-merged_res-32:\\drawable_l_4.png.flat",
+        "source": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-main-34:\\drawable\\l_4.png"
+    },
+    {
+        "merged": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-merged_res-32:\\drawable_c_1.png.flat",
+        "source": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-main-34:\\drawable\\c_1.png"
+    },
+    {
+        "merged": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-merged_res-32:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-main-34:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-merged_res-32:\\layout_activity_l2.xml.flat",
+        "source": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-main-34:\\layout\\activity_l2.xml"
+    },
+    {
+        "merged": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-merged_res-32:\\layout_activity_l1.xml.flat",
+        "source": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-main-34:\\layout\\activity_l1.xml"
+    },
+    {
+        "merged": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-merged_res-32:\\drawable-xhdpi_baseline_link_black_24dp.png.flat",
+        "source": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-main-34:\\drawable-xhdpi\\baseline_link_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-merged_res-32:\\layout_activity_cu4.xml.flat",
+        "source": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-main-34:\\layout\\activity_cu4.xml"
+    },
+    {
+        "merged": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-merged_res-32:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-main-34:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-merged_res-32:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-main-34:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-merged_res-32:\\drawable-xxhdpi_baseline_phone_black_24dp.png.flat",
+        "source": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-main-34:\\drawable-xxhdpi\\baseline_phone_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-merged_res-32:\\drawable_a_2.png.flat",
+        "source": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-main-34:\\drawable\\a_2.png"
+    },
+    {
+        "merged": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-merged_res-32:\\layout_activity_info_l2.xml.flat",
+        "source": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-main-34:\\layout\\activity_info_l2.xml"
+    },
+    {
+        "merged": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-merged_res-32:\\drawable_c_u2.png.flat",
+        "source": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-main-34:\\drawable\\c_u2.png"
+    },
+    {
+        "merged": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-merged_res-32:\\layout_activity_cu3.xml.flat",
+        "source": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-main-34:\\layout\\activity_cu3.xml"
+    },
+    {
+        "merged": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-merged_res-32:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-main-34:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-merged_res-32:\\drawable_c_2.png.flat",
+        "source": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-main-34:\\drawable\\c_2.png"
+    },
+    {
+        "merged": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-merged_res-32:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-main-34:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-merged_res-32:\\drawable-xhdpi_baseline_place_black_24dp.png.flat",
+        "source": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-main-34:\\drawable-xhdpi\\baseline_place_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-merged_res-32:\\drawable_c1_1.jpg.flat",
+        "source": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-main-34:\\drawable\\c1_1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-merged_res-32:\\drawable_b_c1.png.flat",
+        "source": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-main-34:\\drawable\\b_c1.png"
+    },
+    {
+        "merged": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-merged_res-32:\\drawable-hdpi_baseline_link_black_24dp.png.flat",
+        "source": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-main-34:\\drawable-hdpi\\baseline_link_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-merged_res-32:\\drawable_c6_u6.jpg.flat",
+        "source": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-main-34:\\drawable\\c6_u6.jpg"
+    },
+    {
+        "merged": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-merged_res-32:\\drawable-xxhdpi_baseline_link_black_24dp.png.flat",
+        "source": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-main-34:\\drawable-xxhdpi\\baseline_link_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-merged_res-32:\\drawable_c3_1.jpg.flat",
+        "source": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-main-34:\\drawable\\c3_1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-merged_res-32:\\drawable-xxxhdpi_baseline_arrow_back_ios_new_black_24dp.png.flat",
+        "source": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-main-34:\\drawable-xxxhdpi\\baseline_arrow_back_ios_new_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-merged_res-32:\\layout_activity_cu5.xml.flat",
+        "source": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-main-34:\\layout\\activity_cu5.xml"
+    },
+    {
+        "merged": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-merged_res-32:\\drawable_c2_1.jpg.flat",
+        "source": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-main-34:\\drawable\\c2_1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-merged_res-32:\\drawable-hdpi_baseline_arrow_back_ios_new_black_24dp.png.flat",
+        "source": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-main-34:\\drawable-hdpi\\baseline_arrow_back_ios_new_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-merged_res-32:\\drawable-mdpi_baseline_phone_black_24dp.png.flat",
+        "source": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-main-34:\\drawable-mdpi\\baseline_phone_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-merged_res-32:\\drawable_a_3.png.flat",
+        "source": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-main-34:\\drawable\\a_3.png"
+    },
+    {
+        "merged": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-merged_res-32:\\layout_activity_weather.xml.flat",
+        "source": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-main-34:\\layout\\activity_weather.xml"
+    },
+    {
+        "merged": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-merged_res-32:\\drawable-xxhdpi_baseline_arrow_back_ios_new_black_24dp.png.flat",
+        "source": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-main-34:\\drawable-xxhdpi\\baseline_arrow_back_ios_new_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-merged_res-32:\\drawable_c_3.png.flat",
+        "source": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-main-34:\\drawable\\c_3.png"
+    },
+    {
+        "merged": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-merged_res-32:\\drawable_l_2.png.flat",
+        "source": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-main-34:\\drawable\\l_2.png"
+    },
+    {
+        "merged": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-merged_res-32:\\layout_activity_info_c2.xml.flat",
+        "source": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-main-34:\\layout\\activity_info_c2.xml"
+    },
+    {
+        "merged": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-merged_res-32:\\layout_activity_c1.xml.flat",
+        "source": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-main-34:\\layout\\activity_c1.xml"
+    },
+    {
+        "merged": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-merged_res-32:\\layout_activity_map.xml.flat",
+        "source": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-main-34:\\layout\\activity_map.xml"
+    },
+    {
+        "merged": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-merged_res-32:\\layout_activity_college.xml.flat",
+        "source": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-main-34:\\layout\\activity_college.xml"
+    },
+    {
+        "merged": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-merged_res-32:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-main-34:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-merged_res-32:\\layout_activity_cu2.xml.flat",
+        "source": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-main-34:\\layout\\activity_cu2.xml"
+    },
+    {
+        "merged": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-merged_res-32:\\drawable_c_u3.png.flat",
+        "source": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-main-34:\\drawable\\c_u3.png"
+    },
+    {
+        "merged": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-merged_res-32:\\drawable-xxxhdpi_baseline_phone_black_24dp.png.flat",
+        "source": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-main-34:\\drawable-xxxhdpi\\baseline_phone_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-merged_res-32:\\layout_activity_c2.xml.flat",
+        "source": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-main-34:\\layout\\activity_c2.xml"
+    },
+    {
+        "merged": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-merged_res-32:\\drawable-xxxhdpi_baseline_link_black_24dp.png.flat",
+        "source": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-main-34:\\drawable-xxxhdpi\\baseline_link_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-merged_res-32:\\drawable-xhdpi_baseline_info_black_24dp.png.flat",
+        "source": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-main-34:\\drawable-xhdpi\\baseline_info_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-merged_res-32:\\drawable_l1_2.png.flat",
+        "source": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-main-34:\\drawable\\l1_2.png"
+    },
+    {
+        "merged": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-merged_res-32:\\drawable_l_3.png.flat",
+        "source": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-main-34:\\drawable\\l_3.png"
+    },
+    {
+        "merged": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-merged_res-32:\\drawable_c_u4.png.flat",
+        "source": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-main-34:\\drawable\\c_u4.png"
+    },
+    {
+        "merged": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-merged_res-32:\\layout_activity_l3.xml.flat",
+        "source": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-main-34:\\layout\\activity_l3.xml"
+    },
+    {
+        "merged": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-merged_res-32:\\drawable_c2_u2.jpg.flat",
+        "source": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-main-34:\\drawable\\c2_u2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-merged_res-32:\\drawable_b_l1.png.flat",
+        "source": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-main-34:\\drawable\\b_l1.png"
+    },
+    {
+        "merged": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-merged_res-32:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-main-34:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-merged_res-32:\\layout_activity_cu1.xml.flat",
+        "source": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-main-34:\\layout\\activity_cu1.xml"
+    },
+    {
+        "merged": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-merged_res-32:\\layout_activity_info_c1.xml.flat",
+        "source": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-main-34:\\layout\\activity_info_c1.xml"
+    },
+    {
+        "merged": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-merged_res-32:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-main-34:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-merged_res-32:\\drawable_l3_1.jpg.flat",
+        "source": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-main-34:\\drawable\\l3_1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-merged_res-32:\\drawable_a_5.png.flat",
+        "source": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-main-34:\\drawable\\a_5.png"
+    },
+    {
+        "merged": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-merged_res-32:\\drawable_l1_1.jpg.flat",
+        "source": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-main-34:\\drawable\\l1_1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-merged_res-32:\\drawable-hdpi_baseline_info_black_24dp.png.flat",
+        "source": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-main-34:\\drawable-hdpi\\baseline_info_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-merged_res-32:\\drawable_c_u1.png.flat",
+        "source": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-main-34:\\drawable\\c_u1.png"
+    },
+    {
+        "merged": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-merged_res-32:\\drawable_l2_1.jpg.flat",
+        "source": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-main-34:\\drawable\\l2_1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-merged_res-32:\\layout_activity_info_l3.xml.flat",
+        "source": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-main-34:\\layout\\activity_info_l3.xml"
+    },
+    {
+        "merged": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-merged_res-32:\\layout_activity_history.xml.flat",
+        "source": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-main-34:\\layout\\activity_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-merged_res-32:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-main-34:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-merged_res-32:\\layout_activity_cuisine.xml.flat",
+        "source": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-main-34:\\layout\\activity_cuisine.xml"
+    },
+    {
+        "merged": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-merged_res-32:\\drawable_c1_u1.jpg.flat",
+        "source": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-main-34:\\drawable\\c1_u1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-merged_res-32:\\drawable_l1_4.jpg.flat",
+        "source": "C:\\Users\\zxw\\.gradle\\daemon\\7.3.3\\com.example.menupage2.app-main-34:\\drawable\\l1_4.jpg"
+    }
+]
